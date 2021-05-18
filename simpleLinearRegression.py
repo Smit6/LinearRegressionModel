@@ -1,3 +1,10 @@
+"""
+:file: simpleLinearRegression.py
+:author: Smitkumar Contractor
+:contact: smitcontractor@gmail.com
+:brief: SLR model with helper functions
+"""
+
 import numpy as np
 import patsy
 from scipy.optimize import minimize
